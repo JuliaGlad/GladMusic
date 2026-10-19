@@ -1,4 +1,4 @@
-## Avito Music
+## GladMusic
 Дизайн приложения в Figma - https://www.figma.com/design/NK1WGitpS5uKHG38ycldmH/AvitoMusic?node-id=62-306&t=RRTSwoaXFJiaCq0I-1
 
 Приложение для прослушивания музыки через Deezer API
